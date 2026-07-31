@@ -1,0 +1,2 @@
+# Ignore everything in output/ except code/notebooks
+shubhamk/output/*.csv
